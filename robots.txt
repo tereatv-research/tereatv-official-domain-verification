@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tereatv-research.github.io/tereatv-official-domain-verification/sitemap.xml

@@ -1,0 +1,18 @@
+{
+  "brand": "TereaTV",
+  "lastReviewed": "2026-08-18",
+  "primaryDomain": {
+    "url": "https://tereatv.net/",
+    "role": "primary official brand destination"
+  },
+  "legacyDomain": {
+    "url": "https://tereatv.com/",
+    "role": "legacy official domain scheduled for page-to-page migration"
+  },
+  "verificationNotes": [
+    "Confirm that the browser address bar ends in tereatv.net before relying on current brand information.",
+    "Commercial terms, supported devices, trials and availability can change and should be verified on the primary domain.",
+    "This dataset does not classify or accuse third-party domains."
+  ]
+}
+
